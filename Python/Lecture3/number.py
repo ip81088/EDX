@@ -12,10 +12,10 @@ def get_int():
         else:
             return x
         
-# def get_int():
+# def get_int(prompt):
 #     while True:
 #         try:
-#             return int(input("What's x? "))
+#             return int(input(prompt))
 #         except:
 #             print("x is not an integer")
 

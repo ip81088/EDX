@@ -33,3 +33,8 @@ for i in fruits:
         
         # Print fruit calories
         print("Calories: ", fruits[i], end="")
+
+# x = input("Item: ").lower()
+
+# if x in fruits:
+#     print("Calories: ", fruits[x])
